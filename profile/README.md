@@ -2,9 +2,9 @@
 
 ## What is the Algorand Coding Challenge: Fix the Bug Campaign?
 
-The **Algorand Coding Challenge: Fix the Bug** campaign is an engaging initiative where developers are invited to discover and resolve bugs within a given codebase. Participants will fork and clone the repository, addressing any bugs or issues, and submitting a pull request with their solutions. This hands-on challenge offers an enjoyable way to explore AlgoKit, the comprehensive Algorand developer toolkit, as well as Puya and TEALScript for writing Algorand smart contracts. Through participating in a series of these challenges, you will gain valuable experience in building on the Algorand blockchain using its industry-leading developer tools.
+The **Algorand Coding Challenge: Fix the Bug!** campaign is a fun and beginner-friendly challenge where developers are invited to discover and resolve bugs within a given codebase. Participants will fork and clone the repository, addressing any bugs or issues, and submitting a pull request with their solutions. This hands-on challenge offers an enjoyable way to explore AlgoKit, the comprehensive Algorand developer toolkit, as well as Puya and TEALScript for writing Algorand smart contracts. Through participating in a series of these challenges, you will gain valuable experience in building on the Algorand blockchain using its industry-leading developer tools! 🧰
 
-As an additional incentive, participants will be rewarded with participation Non-Fungible Token (NFT), adding an element of excitement and recognition for their efforts in learning about Algorand development. This challenge serves as both a learning opportunity and a platform to showcase Algorand expertise, fostering a sense of community engagement within the Algorand development ecosystem.
+Everyone who completes a challenge will receive a verifiable Certificate 🏆 minted on the [goPlausible](https://goplausible.com/) platform, in recognition of their efforts in learning about building on the Algorand blockchain. This challenge is a learning opportunity and a platform to showcase Algorand expertise with your certificates.
 
 ## Rules and Regulations
 1. **Timely Completion Requirement:**
