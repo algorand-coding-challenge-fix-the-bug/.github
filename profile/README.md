@@ -1,6 +1,6 @@
 # 👾 Algorand Coding Challenge: Fix the Bug 🐞
 
-> Learn buidling with Algorand's newest developer tools: 🧰 AlgoKit, 🐍 Python(Puya), 💎 TypeScript(TealScript) by complete simple coding challenges and receive a 🎓 verifiable credential to show off your skills 😎
+> Learn buidling with Algorand's newest developer tools: 🧰 AlgoKit, 🐍 Python (Puya), 💎 TypeScript (TealScript) by complete simple coding challenges and receive a 🎓 certificate of completion NFT to show off your skills 😎
 
 ## What is the Algorand Coding Challenge: Fix the Bug Campaign?
 
