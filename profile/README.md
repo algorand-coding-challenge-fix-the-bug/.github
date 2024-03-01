@@ -1,10 +1,10 @@
 # 👾 Algorand Coding Challenge: Fix the Bug 🐞
 
-> Learn buidling with Algorand's newest developer tools: 🧰 AlgoKit, 🐍 Python (Puya), 💎 TypeScript (TealScript) by complete simple coding challenges and receive a 🎓 certificate of completion NFT to show off your skills 😎
+> Learn buidling with Algorand's newest developer tools: 🧰 AlgoKit, 🐍 Python (puyapy), 💎 TealScript by completing simple coding challenges to receive a 🎓 certificate of completion NFT to show off your skills 😎
 
 ## What is the Algorand Coding Challenge: Fix the Bug Campaign?
 
-The **Algorand Coding Challenge: Fix the Bug!** campaign is a fun and beginner-friendly challenge where developers are invited to discover and resolve bugs within a given codebase. Participants will fork and clone the repository, address any bugs or issues, and submit a pull request with their solutions. This hands-on challenge offers an enjoyable way to explore AlgoKit, the comprehensive Algorand developer toolkit, as well as Puya and TEALScript for writing Algorand smart contracts. Through participating in a series of these challenges, you will gain valuable experience in building on the Algorand blockchain using its industry-leading developer tools! 🧰
+The **Algorand Coding Challenge: Fix the Bug!** campaign is a fun and beginner-friendly challenge where developers are invited to discover and resolve bugs within a given codebase. Participants will fork and clone the repository, address any bugs or issues, and submit a pull request with their solutions. This hands-on challenge offers an enjoyable way to explore AlgoKit, the comprehensive Algorand developer toolkit, as well as Python (puyapy) and TEALScript for writing Algorand smart contracts. Through participating in a series of these challenges, you will gain valuable experience in building on the Algorand blockchain using its industry-leading developer tools! 🧰
 
 Everyone who completes a challenge will receive a 🏆 verifiable Certificate  minted on the [goPlausible](https://goplausible.com/) platform, in recognition of their efforts in learning about building on the Algorand blockchain. This challenge is a learning opportunity and a platform to showcase Algorand expertise with your certificates.
 
