@@ -26,5 +26,9 @@ Submissions are expected to strictly adhere to the instructions outlined in the 
 
 💰 Fix the script that is sending an Algorand payment transaction of 1 ALGO. This challenge will teach you how to use [AlgoKit](https://developer.algorand.org/algokit/) and the [Algorand JavaScript SDK](https://developer.algorand.org/docs/sdks/javascript/).
 
-https://github.com/algorand-coding-challenge-fix-the-bug/challenge-1
+https://github.com/algorand-coding-challenges/challenge-1
 
+## 🚩 Challenge 2: Why Isn't the Code Running?! 😡
+I cloned this Algorand project but the code doesn't run! What is going on??? Can [AlgoKit](https://developer.algorand.org/algokit/) fix this problem? 👀
+
+https://github.com/algorand-coding-challenges/challenge-2
