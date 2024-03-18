@@ -32,3 +32,8 @@ https://github.com/algorand-coding-challenges/challenge-1
 I cloned this Algorand project but the code doesn't run! What is going on??? Can [AlgoKit](https://developer.algorand.org/algokit/) fix this problem? 👀
 
 https://github.com/algorand-coding-challenges/challenge-2
+
+## 🚩 Challenge 3: My AppClient is Broken! 😭
+I want to instantiate an app client to deploy and interact with my smart contract but it's not working!! What is a [Typed Application Client](https://github.com/algorandfoundation/algokit-client-generator-ts) and how does it help deployment/interaction with my smart contract? 👀
+
+https://github.com/algorand-coding-challenges/challenge-3
