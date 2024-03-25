@@ -37,3 +37,8 @@ https://github.com/algorand-coding-challenges/challenge-2
 I want to instantiate an app client to deploy and interact with my smart contract but it's not working!! What is a [Typed Application Client](https://github.com/algorandfoundation/algokit-client-generator-ts) and how does it help deployment/interaction with my smart contract? 👀
 
 https://github.com/algorand-coding-challenges/challenge-3
+
+## 🚩 Challenge 4: How Do I Atomically Send 2 Payment Transactions? 🤔
+I want to group 2 payment transactions using Algorand's atomic transfers feature but it's not working!
+
+https://github.com/algorand-coding-challenges/challenge-4
