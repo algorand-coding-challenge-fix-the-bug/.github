@@ -22,23 +22,14 @@ All submissions must exclusively represent the individual efforts of the partici
 3. **Compliance with Submission Guidelines:**
 Submissions are expected to strictly adhere to the instructions outlined in the README of the associated GitHub repository. Failure to comply with the provided instructions will result in disqualification of the submission.
 
-## 🚩 Challenge 1: I can't send my transaction!
+# 🐍 Python Coding Challenge is LIVE! 
 
-💰 Fix the script that is sending an Algorand payment transaction of 1 ALGO. This challenge will teach you how to use [AlgoKit](https://developer.algorand.org/algokit/) and the [Algorand JavaScript SDK](https://developer.algorand.org/docs/sdks/javascript/).
+## 🚩 Challenge 1: My Vault Contract is failing to build! 🏗️
+When compiling my Python smart contract, it fails to build. There seems to be 2 issues... 🤔
 
-https://github.com/algorand-coding-challenges/challenge-1
+https://github.com/algorand-coding-challenges/python-challenge-1
 
-## 🚩 Challenge 2: Why Isn't the Code Running?! 😡
-I cloned this Algorand project but the code doesn't run! What is going on??? Can [AlgoKit](https://developer.algorand.org/algokit/) fix this problem? 👀
+# Find Algorand Coding Challenge - Volume 1 challenges here
+Do you want to learn how to use AlgoKit and Algorand SDKs to get your algodev journey? Start here!
 
-https://github.com/algorand-coding-challenges/challenge-2
-
-## 🚩 Challenge 3: My AppClient is Broken! 😭
-I want to instantiate an app client to deploy and interact with my smart contract but it's not working!! What is a [Typed Application Client](https://github.com/algorandfoundation/algokit-client-generator-ts) and how does it help deployment/interaction with my smart contract? 👀
-
-https://github.com/algorand-coding-challenges/challenge-3
-
-## 🚩 Challenge 4: How Do I Atomically Send 2 Payment Transactions? 🤔
-I want to group 2 payment transactions using Algorand's atomic transfers feature but it's not working!
-
-https://github.com/algorand-coding-challenges/challenge-4
+https://github.com/algorand-coding-challenges/volume-1
