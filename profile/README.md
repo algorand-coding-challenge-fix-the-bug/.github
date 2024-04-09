@@ -29,6 +29,11 @@ When compiling my Python smart contract, it fails to build. There seems to be 2 
 
 https://github.com/algorand-coding-challenges/python-challenge-1
 
+## 🚩 Challenge 2: How Do You Store States on the Python Contract?! 📀
+When compiling my Python smart contract, it fails to build. There seem to be issues around how I am defining my states... 🤔
+
+https://github.com/algorand-coding-challenges/python-challenge-2
+
 # Find Algorand Coding Challenge - Volume 1 challenges here
 Do you want to learn how to use AlgoKit and Algorand SDKs to get your algodev journey? Start here!
 
