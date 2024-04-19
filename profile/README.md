@@ -34,6 +34,11 @@ When compiling my Python smart contract, it fails to build. There seem to be iss
 
 https://github.com/algorand-coding-challenges/python-challenge-2
 
+## 🚩 Challenge 3: Algorand smart contract can send transactions!? 🤯
+I want to deposit my Super RARE Oranges NFT into my ASA Vault contract but the contract is failing to opt-in to the asset! What is going on?
+
+https://github.com/algorand-coding-challenges/python-challenge-3
+
 # Find Algorand Coding Challenge - Volume 1 challenges here
 Do you want to learn how to use AlgoKit and Algorand SDKs to get your algodev journey? Start here!
 
