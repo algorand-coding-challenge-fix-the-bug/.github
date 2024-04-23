@@ -39,6 +39,11 @@ I want to deposit my Super RARE Oranges NFT into my ASA Vault contract but the c
 
 https://github.com/algorand-coding-challenges/python-challenge-3
 
+## 🚩 Challenge 4: Can I Trust This AI Doctor? 🤖
+The smart contract that keeps track of information about the AI doctor is broken! For some reason the method to record new AI info doesn't work. Humanity is doomed! 😱
+
+https://github.com/algorand-coding-challenges/python-challenge-4
+
 # Find Algorand Coding Challenge - Volume 1 challenges here
 Do you want to learn how to use AlgoKit and Algorand SDKs to get your algodev journey? Start here!
 
